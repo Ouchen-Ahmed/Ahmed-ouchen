@@ -1,14 +1,14 @@
 ![logo](https://github.com/Ouchen-Ahmed/Ahmed-ouchen/blob/main/original-1b647ab3d1c6d3cde343f0d44ade1d13.jpg)
-<h1 align="center">Hi 👋, I'm Ouchen Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate (system & network)and frontend developer at Morocco 🇲🇦</h3>
 <img align ="right" alt="" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouchen-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ouchen-ahmed" /> </p>
 
-- 🌱 I’m currently learning **Ccna Basics**
+- 🌱 I’m currently learning : **Ccna Basics**
 
-- 📫 How to reach me **ouchenahmed755@gmail.com**
+- 📫 How to reach me : **ouchenahmed755@gmail.com**
 
-- ⚡ Fun fact **Tv Shows , music ...**
+- ⚡ Fun fact : **Tv Shows 🎥 , music 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
