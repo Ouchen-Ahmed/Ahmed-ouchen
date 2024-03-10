@@ -1,3 +1,4 @@
+<img align = "center " width="500" src= "https://dribbble.com/shots/22921552-Network-Icon-Illustration">
 <h1 align="center">Hi 👋, I'm Ouchen Ahmed</h1>
 <h3 align="center">A passionate (system & network)and frontend developer at Morocco 🇲🇦</h3>
 <img align ="right" alt="" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
